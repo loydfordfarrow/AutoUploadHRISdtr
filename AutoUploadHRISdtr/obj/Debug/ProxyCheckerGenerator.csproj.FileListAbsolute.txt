@@ -1,0 +1,39 @@
+C:\Users\INNOSOFT-02\source\repos\ProxyCheckerGenerator\ProxyCheckerGenerator\bin\Debug\ProxyCheckerGenerator.exe.config
+C:\Users\INNOSOFT-02\source\repos\ProxyCheckerGenerator\ProxyCheckerGenerator\bin\Debug\ProxyCheckerGenerator.exe
+C:\Users\INNOSOFT-02\source\repos\ProxyCheckerGenerator\ProxyCheckerGenerator\bin\Debug\ProxyCheckerGenerator.pdb
+C:\Users\INNOSOFT-02\source\repos\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.csprojAssemblyReference.cache
+C:\Users\INNOSOFT-02\source\repos\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.Properties.Resources.resources
+C:\Users\INNOSOFT-02\source\repos\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.csproj.GenerateResource.cache
+C:\Users\INNOSOFT-02\source\repos\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.csproj.CoreCompileInputs.cache
+C:\Users\INNOSOFT-02\source\repos\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.exe
+C:\Users\INNOSOFT-02\source\repos\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.pdb
+C:\Users\INNOSOFT-02\source\repos\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.Form1.resources
+C:\Users\MCWELL\Downloads\ProxyCheckerGenerator\ProxyCheckerGenerator\bin\Debug\ProxyCheckerGenerator.exe.config
+C:\Users\MCWELL\Downloads\ProxyCheckerGenerator\ProxyCheckerGenerator\bin\Debug\ProxyCheckerGenerator.exe
+C:\Users\MCWELL\Downloads\ProxyCheckerGenerator\ProxyCheckerGenerator\bin\Debug\ProxyCheckerGenerator.pdb
+C:\Users\MCWELL\Downloads\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.csprojResolveAssemblyReference.cache
+C:\Users\MCWELL\Downloads\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.Form1.resources
+C:\Users\MCWELL\Downloads\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.Properties.Resources.resources
+C:\Users\MCWELL\Downloads\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.csproj.GenerateResource.Cache
+C:\Users\MCWELL\Downloads\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.exe
+C:\Users\MCWELL\Downloads\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.pdb
+Y:\Zxampp\htdocs\checkproxydata\ProxyCheckerGenerator\ProxyCheckerGenerator\bin\Debug\ProxyCheckerGenerator.exe.config
+Y:\Zxampp\htdocs\checkproxydata\ProxyCheckerGenerator\ProxyCheckerGenerator\bin\Debug\ProxyCheckerGenerator.exe
+Y:\Zxampp\htdocs\checkproxydata\ProxyCheckerGenerator\ProxyCheckerGenerator\bin\Debug\ProxyCheckerGenerator.pdb
+Y:\Zxampp\htdocs\checkproxydata\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.csprojResolveAssemblyReference.cache
+Y:\Zxampp\htdocs\checkproxydata\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.Form1.resources
+Y:\Zxampp\htdocs\checkproxydata\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.Properties.Resources.resources
+Y:\Zxampp\htdocs\checkproxydata\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.csproj.GenerateResource.Cache
+Y:\Zxampp\htdocs\checkproxydata\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.exe
+Y:\Zxampp\htdocs\checkproxydata\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.pdb
+C:\Users\loydf\OneDrive\VISUAL STUDIO PROJECT\ProxyCheckerGenerator\ProxyCheckerGenerator\bin\Debug\ProxyCheckerGenerator.exe.config
+C:\Users\loydf\OneDrive\VISUAL STUDIO PROJECT\ProxyCheckerGenerator\ProxyCheckerGenerator\bin\Debug\ProxyCheckerGenerator.exe
+C:\Users\loydf\OneDrive\VISUAL STUDIO PROJECT\ProxyCheckerGenerator\ProxyCheckerGenerator\bin\Debug\ProxyCheckerGenerator.pdb
+C:\Users\loydf\OneDrive\VISUAL STUDIO PROJECT\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.csproj.AssemblyReference.cache
+C:\Users\loydf\OneDrive\VISUAL STUDIO PROJECT\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\loydf\OneDrive\VISUAL STUDIO PROJECT\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.Form1.resources
+C:\Users\loydf\OneDrive\VISUAL STUDIO PROJECT\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.Properties.Resources.resources
+C:\Users\loydf\OneDrive\VISUAL STUDIO PROJECT\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.csproj.GenerateResource.cache
+C:\Users\loydf\OneDrive\VISUAL STUDIO PROJECT\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.csproj.CoreCompileInputs.cache
+C:\Users\loydf\OneDrive\VISUAL STUDIO PROJECT\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.exe
+C:\Users\loydf\OneDrive\VISUAL STUDIO PROJECT\ProxyCheckerGenerator\ProxyCheckerGenerator\obj\Debug\ProxyCheckerGenerator.pdb
